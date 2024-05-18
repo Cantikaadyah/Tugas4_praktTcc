@@ -8,14 +8,16 @@ let concerts = [
         tanggal: "15 Agustus 2023",
         lokasi: "Stadium Wembley, London",
         genre: "Pop",
-        rating: 9.0
+        rating: 9.0,
+	kapasitas: 3.000,
     },
     {
         nama: "Ed Sheeran",
         tanggal: "10 Juni 2022",
         lokasi: "Madison Square Garden, New York",
         genre: "Pop",
-        rating: 8.7
+        rating: 8.7,
+	kapasitas : 7.200,
     },
 ];
 
