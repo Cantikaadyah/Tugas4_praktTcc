@@ -7,7 +7,10 @@ let user = {
   NIM           : "123210153",
   Class         : "IF-C",
   Major         : "Informatika",
-  Faculcities   : "FTI"
+  Faculcities   : "FTI",
+  Status	: "Belum Menikah",
+  Alamat	: "Sanggrahan, Jogja",
+  Hobi		: "Berenang",
 };
 
 // Endpoint untuk mengembalikan user
